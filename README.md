@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola, soy Daxel! 👋</h1>
 <p align="center">
-Ingeniero mecánico | Diseñador | Analista de Datos | Fundador de <b>Moops</b>  
+Ingeniero mecánico | Diseñador | Analista de Datos | Emprendimiento <b>Moops</b>  
 </p>
 
 ---
@@ -13,7 +13,7 @@ Amante de la música, el diseño, y con grandes sueños por cumplir.
 
 ---
 
-### ¿Qué me mueve?
+### Motivaciones
 - Transformar ideas en diseños que conectan
 - Analizar datos para tomar mejores decisiones
 - Aprender cosas nuevas (todo el tiempo)
