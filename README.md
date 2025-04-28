@@ -2,11 +2,11 @@
 <p align="center">
 Ingeniero mecánico | Diseñador | Analista de Datos | Emprendimiento <b>Moops</b>  
 </p>
----
+
 <p align="center">
   <img src="banner_linkeno.png" alt="Banner de Daxel" />
 </p>
----
+
 
 ### ¿Quién soy?
 
