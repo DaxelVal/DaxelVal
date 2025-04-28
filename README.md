@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="DaxelVal/DaxelVal/banner_linkeno.png" alt="Banner de Daxel" />
+  <img src="banner_linkeno.png" alt="Banner de Daxel" />
 </p>
 <h1 align="center">¡Hola, soy Daxel! 👋</h1>
 <p align="center">
