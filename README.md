@@ -1,3 +1,4 @@
+![Texto alternativo](DaxelVal/banner linkeno.png)
 <h1 align="center">¡Hola, soy Daxel! 👋</h1>
 <p align="center">
 Ingeniero mecánico | Diseñador | Analista de Datos | Emprendimiento <b>Moops</b>  
