@@ -97,7 +97,7 @@ Amante de la música, el diseño, y con grandes sueños por cumplir.
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DaxelVal/DaxelVal/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DaxelVal/DaxelVal/.github/workflows" alt="Snake animation" />
 
 ###
 
