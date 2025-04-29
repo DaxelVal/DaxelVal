@@ -109,7 +109,7 @@ Amante de la música, el diseño, y con grandes sueños por cumplir.
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuUsuarioGitHub&layout=compact&langs_count=10&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 ###
 
 <br clear="both">
