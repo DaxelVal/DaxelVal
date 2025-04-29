@@ -5,7 +5,7 @@ Ingeniero mecánico | Diseñador | Analista de Datos | Emprendimiento <b>Moops</
 
 <p align="center">
   <img src="banner_linkeno.png" alt="Banner de Daxel" />
-</p>
+</p> 
 
 
 ### ¿Quién soy?
